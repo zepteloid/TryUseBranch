@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+fix in the 1.txt
+=======
+My fixed in the 1.txt
+>>>>>>> branch_2
